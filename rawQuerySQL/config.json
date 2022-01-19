@@ -1,0 +1,13 @@
+{
+    "configGeneratedDate": "11/01/2022",
+    "log": {
+        "level": "debug",
+        "origin": "faas-contracts-create"
+    },
+    "functions": {
+        "integration-service": "faas-integration-service"
+    },
+    "snsTopic": {
+        "contracts-create": "arn:aws:sns:us-east-1:numberAccount:nomeFila"
+    }
+}
